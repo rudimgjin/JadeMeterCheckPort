@@ -15,6 +15,7 @@ public class StandaloneApp {
                 frame.setVisible(true);
             }
 
+
         });
     }
 }
