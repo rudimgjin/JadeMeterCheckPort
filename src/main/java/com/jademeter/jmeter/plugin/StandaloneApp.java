@@ -14,8 +14,6 @@ public class StandaloneApp {
                 frame.setLocationRelativeTo(null);
                 frame.setVisible(true);
             }
-
-
         });
     }
 }
